@@ -2,6 +2,37 @@
 ### Primetrade.ai – Data Science / Analytics Intern Round-0 Assignment
 
 > A data-driven study on how Bitcoin Fear & Greed sentiment impacts trader behavior, profitability, and risk-taking on Hyperliquid.
+## 📊 Output Charts
+![Output](https://github.com/Smritibhardwaz2711/primetrade-trader-performance-analysis/blob/8da9b843c9b0b572ee49f7306bda840585095f84/Output.png)
+### Charts
+
+### Trade Size USD Distribution
+![Trade Size USD Distribution](https://github.com/Smritibhardwaz2711/primetrade-trader-performance-analysis/blob/8da9b843c9b0b572ee49f7306bda840585095f84/Trade%20size%20USD%20Distribution.png)
+### PnL Distribution Fear vs Greed
+![PnL Distribution](https://github.com/Smritibhardwaz2711/primetrade-trader-performance-analysis/blob/8da9b843c9b0b572ee49f7306bda840585095f84/PnL%20Distribution.png)
+
+### Top 10 Traders by Total Closed PnL
+![Top Traders](https://github.com/Smritibhardwaz2711/primetrade-trader-performance-analysis/blob/8da9b843c9b0b572ee49f7306bda840585095f84/Top%2010%20Traders.png)
+
+### Confusion Matrix
+![Confusion Matrix](https://github.com/Smritibhardwaz2711/primetrade-trader-performance-analysis/blob/8da9b843c9b0b572ee49f7306bda840585095f84/confusion%20matrix.png)
+
+### frequent vs infrequent Traders
+![frequent vs infrequent Traders](https://github.com/Smritibhardwaz2711/primetrade-trader-performance-analysis/blob/8da9b843c9b0b572ee49f7306bda840585095f84/frequent%20vs%20infrequent%20Traders.png)
+
+### Trade By count Sentiment
+![Trade By count Sentiment.png](https://github.com/Smritibhardwaz2711/primetrade-trader-performance-analysis/blob/8da9b843c9b0b572ee49f7306bda840585095f84/Trade%20By%20count%20Sentiment.png)
+
+### Feature Importance - Next Day Profutability
+![Feature Importance - Next Day Profutability](
+https://github.com/Smritibhardwaz2711/primetrade-trader-performance-analysis/blob/8da9b843c9b0b572ee49f7306bda840585095f84/Feature%20Importance%20-%20Next%20Day%20Profutability.png)
+
+### long/short Bias By Sentiment
+![long/short Bias By Sentiment](https://github.com/Smritibhardwaz2711/primetrade-trader-performance-analysis/blob/8da9b843c9b0b572ee49f7306bda840585095f84/long.png)
+
+### trade by size sentiment
+![trade by size sentiment](https://github.com/Smritibhardwaz2711/primetrade-trader-performance-analysis/blob/8da9b843c9b0b572ee49f7306bda840585095f84/trade%20by%20size%20sentiment.png)
+
 
 
 ## 👩‍💻 Candidate
